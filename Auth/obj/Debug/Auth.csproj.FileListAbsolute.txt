@@ -1,0 +1,13 @@
+Y:\Dysk Google\Projects\Auth\Auth\bin\Debug\Auth.exe.config
+Y:\Dysk Google\Projects\Auth\Auth\bin\Debug\Auth.exe
+Y:\Dysk Google\Projects\Auth\Auth\bin\Debug\Auth.pdb
+Y:\Dysk Google\Projects\Auth\Auth\bin\Debug\Newtonsoft.Json.dll
+Y:\Dysk Google\Projects\Auth\Auth\bin\Debug\Newtonsoft.Json.xml
+Y:\Dysk Google\Projects\Auth\Auth\obj\Debug\Auth.csprojResolveAssemblyReference.cache
+Y:\Dysk Google\Projects\Auth\Auth\obj\Debug\Auth.Form1.resources
+Y:\Dysk Google\Projects\Auth\Auth\obj\Debug\Auth.Properties.Resources.resources
+Y:\Dysk Google\Projects\Auth\Auth\obj\Debug\Auth.csproj.GenerateResource.Cache
+Y:\Dysk Google\Projects\Auth\Auth\obj\Debug\Auth.exe
+Y:\Dysk Google\Projects\Auth\Auth\obj\Debug\Auth.pdb
+Y:\Dysk Google\Projects\Auth\Auth\obj\Debug\Auth.csproj.CoreCompileInputs.cache
+Y:\Dysk Google\Projects\Auth\Auth\bin\Debug\ModernHttpClient.dll
